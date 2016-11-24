@@ -9,6 +9,7 @@ namespace FoursquareApi
     public class Four
     {
 
+
         public class Meta
         {
             public int code { get; set; }
